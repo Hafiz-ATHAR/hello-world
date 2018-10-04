@@ -1,1 +1,1 @@
-first git file
+first git file. second commit just made after updating the file.
